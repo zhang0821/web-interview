@@ -56,7 +56,8 @@ axios.interceptors.response.use(function (response) {
 
 
 **取消请求**
-
+请求真的能被取消吗？能 内部是基于 XMLHttpRequest.abort()
+https://www.cnblogs.com/echolun/p/15204279.html 
 ```js
 // 方式一
 const CancelToken = axios.CancelToken;
