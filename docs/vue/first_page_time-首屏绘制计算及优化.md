@@ -1,8 +1,5 @@
 # 面试官：SPA首屏加载速度慢的怎么解决？
 
-![image.png](https://static.vue-js.com/24617c00-3acc-11eb-ab90-d9ae814b240d.png)
-
-
 ## 一、什么是首屏加载
 
 首屏时间（First Contentful Paint），指的是浏览器从响应用户输入网址地址，到首屏内容渲染完成的时间，此时整个网页不一定要全部渲染完成，但需要展示当前视窗需要的内容
